@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IzYjzohny7I=",
+  "success": true,
+  "projectFilePath": "Z:\\Z Docs\\Ruijven Gaming\\Ruijven Coding\\Windsurf Test Projects\\Valhalloot\\ValhalLoot\\ValhalLoot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sanfo\\.nuget\\packages\\ilrepack.lib.msbuild.task\\2.0.18.2\\ilrepack.lib.msbuild.task.2.0.18.2.nupkg.sha512",
+    "C:\\Users\\sanfo\\.nuget\\packages\\yamldotnet\\13.2.0\\yamldotnet.13.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
